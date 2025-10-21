@@ -16,5 +16,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="gif" height="60" width="60" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdmNnJ0MDhlbGlsdm5ub3JxczY5d2cxbms0cjQ3bnF2b2M0amg1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dYRwBXzRFRPIdxGfwv/giphy.gif">
 </div>
   
