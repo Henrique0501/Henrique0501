@@ -1,7 +1,7 @@
 ## Olá! Sou o Henrique!
 
-🔬🎲 Grande entusiasta de Ciência de Dados
-⚒️⛏️ Princiapis ferramentas: Python, SAS e SQL
+- 🔬🎲 Grande entusiasta de Ciência de Dados
+- ⚒️⛏️ Princiapis ferramentas: Python, SAS e SQL
 
 <div>
   <a href="https://github.com/Henrique0501">
