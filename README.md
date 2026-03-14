@@ -7,7 +7,6 @@
   <a href="https://github.com/Henrique0501">
   < <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique0501&theme=great-gatsby&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0501&theme=great-gatsby&layout=compact"/>
-  <img height="1800em" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000e4471f590815ba059459f61&ts=491854&p=fs&cid=1&sig=0d2530c5a03916664a1035c3402a01d27a2d571ced744ef8eb883758d4a68ec6&v=0"/>
 </div> 
 
 
